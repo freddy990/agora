@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo1",
+  "version": "1.0.0",
+  "description": "ejemplo practicando",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddy990/agora.git"
+  },
+  "author": "freddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddy990/agora/issues"
+  },
+  "homepage": "https://github.com/freddy990/agora#readme",
+  "dependencies": {
+    "mostache": "^1.2.0"
+  }
+}
